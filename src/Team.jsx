@@ -17,7 +17,7 @@ const Team = (props) => {
               <h5 className="card-title font-weight-bold">
                 We are the team of senior developers
               </h5>
-              <p className="card-text"></p>
+              <p className="card-text">DURGA PRASAD</p>
             </div>
           </div>
         </div>
@@ -35,7 +35,7 @@ const Team = (props) => {
               <h5 className="card-title font-weight-bold">
                 We are the team of senior developers
               </h5>
-              <p className="card-text"></p>
+              <p className="card-text">ISHU MEHRA</p>
             </div>
           </div>
         </div>
