@@ -2,7 +2,7 @@ const Sdata = [
   {
     imgsrc:
       "https://media.istockphoto.com/vectors/hackathon-concept-card-poster-paper-art-design-vector-vector-id1189767039?k=20&m=1189767039&s=612x612&w=0&h=duoZZtZhq7v0LtUwbVlQp0iM4cZKLWQSYHt3KaI8iWM=",
-    title: "Cloud Fest hackthon",
+
     link: " https://www.hackerearth.com/challenges/hackathon/cloud-fest-hackathon-i-presented-by-google-cloud/",
   },
   {
