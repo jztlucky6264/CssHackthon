@@ -85,9 +85,6 @@ code {
 .btn-outline-primary:hover {
   background: #3498db;
 }
-.btn_Register {
-  width: 10vw !important;
-}
 
 @-webkit-keyframes up-down {
   0% {
